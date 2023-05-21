@@ -3,4 +3,5 @@
     <string name="header">Header</string>
     <string name="subhead">Subhead</string>
     <string name="text">Super cool text super informative wow wow even more information education look at this pic</string>
+    <string name="contentDescription">imageView</string>
 </resources>
